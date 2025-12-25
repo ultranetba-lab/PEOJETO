@@ -1,0 +1,8 @@
+{
+  "name": "UltraNET Ponto Eletrônico",
+  "description": "Sistema avançado de gestão de ponto com reconhecimento facial e geolocalização para colaboradores UltraNET.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
